@@ -14,7 +14,7 @@ Diseñar filtros digitales pasa-bajas, pasa-altas y pasa-banda para analizar se�
 ```bash
 pip install numpy scipy matplotlib
 python filtros.py
-
+```
 ## Resultados
 - Pasa-bajas: eliminó el ruido y dejó solo 5 Hz
 - Pasa-banda: dejó solo 50 Hz
